@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
 
@@ -41,20 +41,18 @@ Sunday                   1 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 12 mins      ███████████████████████░░   91.32 % 
-HTML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    11 hrs 2 mins       █████████████████████░░░░   85.18 % 
+HTML                     1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 19 mins      ███████████████████████░░   92.15 % 
-VS Code                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Chrome                   11 hrs 4 mins       █████████████████████░░░░   85.37 % 
+VS Code                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 
 🐱‍💻 Projects: 
-sleek-portfolio          6 hrs 53 mins       █████████████░░░░░░░░░░░░   51.50 % 
-js-path                  6 hrs 26 mins       ████████████░░░░░░░░░░░░░   48.22 % 
-shashank5261             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+sleek-portfolio          6 hrs 43 mins       █████████████░░░░░░░░░░░░   51.82 % 
+js-path                  6 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.98 % 
+shashank5261             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -67,5 +65,5 @@ TypeScript               2 repos             ███████████�
 
 
 
- Last Updated on 22/11/2025 12:36:57 UTC
+ Last Updated on 23/11/2025 01:46:56 UTC
 <!--END_SECTION:waka-->
