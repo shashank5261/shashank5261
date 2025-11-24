@@ -41,18 +41,18 @@ Sunday                   1 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 2 mins       █████████████████████░░░░   85.18 % 
-HTML                     1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Other                    5 hrs 37 mins       ██████████████████░░░░░░░   71.30 % 
+HTML                     2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 4 mins       █████████████████████░░░░   85.37 % 
-VS Code                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Chrome                   5 hrs 39 mins       ██████████████████░░░░░░░   71.61 % 
+VS Code                  2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.39 % 
 
 🐱‍💻 Projects: 
-sleek-portfolio          6 hrs 43 mins       █████████████░░░░░░░░░░░░   51.82 % 
-js-path                  6 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.98 % 
-shashank5261             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+js-path                  6 hrs 33 mins       █████████████████████░░░░   83.16 % 
+sleek-portfolio          1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+shashank5261             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -65,5 +65,5 @@ TypeScript               2 repos             ███████████�
 
 
 
- Last Updated on 23/11/2025 12:36:43 UTC
+ Last Updated on 24/11/2025 01:33:27 UTC
 <!--END_SECTION:waka-->
