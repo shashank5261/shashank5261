@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
 
@@ -41,18 +41,15 @@ Sunday                   1 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 37 mins       ██████████████████░░░░░░░   71.30 % 
-HTML                     2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+HTML                     1 hr 55 mins        ██████████████████████░░░   87.89 % 
+JavaScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 39 mins       ██████████████████░░░░░░░   71.61 % 
-VS Code                  2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-js-path                  6 hrs 33 mins       █████████████████████░░░░   83.16 % 
-sleek-portfolio          1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-shashank5261             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+js-path                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -65,5 +62,5 @@ TypeScript               2 repos             ███████████�
 
 
 
- Last Updated on 24/11/2025 12:43:58 UTC
+ Last Updated on 25/11/2025 01:28:14 UTC
 <!--END_SECTION:waka-->
