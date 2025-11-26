@@ -41,15 +41,15 @@ Sunday                   1 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 55 mins        ██████████████████████░░░   87.89 % 
-JavaScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+HTML                     1 hr 33 mins        █████████████████████░░░░   85.47 % 
+JavaScript               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-js-path                  2 hrs 11 mins       █████████████████████████   100.00 % 
+js-path                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -62,5 +62,5 @@ TypeScript               2 repos             ███████████�
 
 
 
- Last Updated on 25/11/2025 12:44:37 UTC
+ Last Updated on 26/11/2025 01:28:13 UTC
 <!--END_SECTION:waka-->
