@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -41,14 +41,14 @@ Sunday                   1 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               23 mins             ██████████████░░░░░░░░░░░   54.05 % 
-HTML                     20 mins             ███████████░░░░░░░░░░░░░░   45.95 % 
+JavaScript               1 hr 39 mins        ███████████████████░░░░░░   74.83 % 
+HTML                     33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-js-path                  44 mins             █████████████████████████   100.00 % 
+js-path                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -61,5 +61,5 @@ TypeScript               2 repos             ███████████�
 
 
 
- Last Updated on 30/11/2025 12:39:55 UTC
+ Last Updated on 01/12/2025 01:53:09 UTC
 <!--END_SECTION:waka-->
