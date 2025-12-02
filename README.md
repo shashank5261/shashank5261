@@ -1,8 +1,8 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,5 +61,5 @@ TypeScript               2 repos             ███████████�
 
 
 
- Last Updated on 01/12/2025 12:45:06 UTC
+ Last Updated on 02/12/2025 01:30:24 UTC
 <!--END_SECTION:waka-->
