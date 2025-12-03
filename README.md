@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,15 +41,20 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 50 mins        ██████████████░░░░░░░░░░░   54.05 % 
-JavaScript               1 hr 34 mins        ███████████░░░░░░░░░░░░░░   45.95 % 
+JavaScript               3 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.96 % 
+HTML                     2 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.43 % 
+CSS                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-js-path                  1 hr 57 mins        ██████████████░░░░░░░░░░░   57.43 % 
-harkirat-cohort          1 hr 27 mins        ███████████░░░░░░░░░░░░░░   42.57 % 
+harkirat-cohort          2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.31 % 
+js-path                  1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+worth-frontend           1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+worth-backend            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -63,5 +68,5 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 03/12/2025 01:29:54 UTC
+ Last Updated on 03/12/2025 12:45:45 UTC
 <!--END_SECTION:waka-->
