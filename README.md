@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,20 +41,20 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.96 % 
-HTML                     2 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.43 % 
-CSS                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JavaScript               3 hrs 42 mins       █████████████░░░░░░░░░░░░   52.95 % 
+HTML                     2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
+CSS                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-harkirat-cohort          2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.31 % 
-js-path                  1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-worth-frontend           1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-worth-backend            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+harkirat-cohort          2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
+js-path                  1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+worth-frontend           1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+worth-backend            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -68,5 +68,5 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 03/12/2025 12:45:45 UTC
+ Last Updated on 04/12/2025 01:30:41 UTC
 <!--END_SECTION:waka-->
