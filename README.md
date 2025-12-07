@@ -41,21 +41,21 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 58 mins       █████████████░░░░░░░░░░░░   52.46 % 
-HTML                     2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
-CSS                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JavaScript               4 hrs 43 mins       █████████████░░░░░░░░░░░░   53.64 % 
+HTML                     3 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.92 % 
+CSS                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-harkirat-cohort          3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   41.61 % 
-worth-frontend           2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-js-path                  1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-worth-backend            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-IdeaProjects             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+harkirat-cohort          3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.10 % 
+worth-frontend           2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
+js-path                  1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+worth-backend            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+IdeaProjects             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -69,5 +69,5 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 06/12/2025 12:40:09 UTC
+ Last Updated on 07/12/2025 01:47:04 UTC
 <!--END_SECTION:waka-->
