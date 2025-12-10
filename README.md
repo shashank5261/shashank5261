@@ -41,21 +41,20 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 17 mins       ███████████████░░░░░░░░░░   59.56 % 
-HTML                     1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-CSS                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JavaScript               40 mins             █████████████████░░░░░░░░   69.27 % 
+HTML                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Java                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-worth-frontend           2 hrs 49 mins       █████████████░░░░░░░░░░░░   51.21 % 
-harkirat-cohort          2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.75 % 
-worth-backend            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-IdeaProjects             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-nocobase                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+harkirat-cohort          45 mins             ███████████████████░░░░░░   77.16 % 
+worth-frontend           9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+IdeaProjects             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+nocobase                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+041                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -69,5 +68,5 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 09/12/2025 12:45:43 UTC
+ Last Updated on 10/12/2025 01:32:47 UTC
 <!--END_SECTION:waka-->
