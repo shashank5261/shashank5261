@@ -41,20 +41,20 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               40 mins             █████████████████░░░░░░░░   69.27 % 
-HTML                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Java                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JavaScript               15 mins             ████████████░░░░░░░░░░░░░   46.38 % 
+HTML                     14 mins             ███████████░░░░░░░░░░░░░░   42.27 % 
+Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-harkirat-cohort          45 mins             ███████████████████░░░░░░   77.16 % 
-worth-frontend           9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-IdeaProjects             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-nocobase                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-041                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+harkirat-cohort          20 mins             ███████████████░░░░░░░░░░   60.15 % 
+worth-frontend           9 mins              ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+IdeaProjects             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+nocobase                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+041                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -68,5 +68,5 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 10/12/2025 12:46:21 UTC
+ Last Updated on 11/12/2025 01:33:19 UTC
 <!--END_SECTION:waka-->
