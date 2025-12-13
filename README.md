@@ -41,20 +41,13 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               15 mins             ████████████░░░░░░░░░░░░░   46.38 % 
-HTML                     14 mins             ███████████░░░░░░░░░░░░░░   42.27 % 
-Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-harkirat-cohort          20 mins             ███████████████░░░░░░░░░░   60.15 % 
-worth-frontend           9 mins              ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-IdeaProjects             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-nocobase                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-041                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -68,5 +61,5 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 12/12/2025 12:45:14 UTC
+ Last Updated on 13/12/2025 01:27:51 UTC
 <!--END_SECTION:waka-->
