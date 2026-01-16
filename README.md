@@ -41,21 +41,20 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 59 mins             ███████████░░░░░░░░░░░░░░   44.87 % 
-TypeScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Go                       20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-JavaScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-TSConfig                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Markdown                 59 mins             █████████████░░░░░░░░░░░░   50.07 % 
+TypeScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Go                       20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+TSConfig                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DisasterNet-main         54 mins             ██████████░░░░░░░░░░░░░░░   40.82 % 
-The Last Hand            25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-valorant-Remastered-main 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Valorant Remastered      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-harkirat-cohort          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+DisasterNet-main         54 mins             ███████████░░░░░░░░░░░░░░   45.55 % 
+The Last Hand            25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+valorant-Remastered-main 21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Valorant Remastered      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,5 +69,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/01/2026 12:47:33 UTC
+ Last Updated on 16/01/2026 01:45:58 UTC
 <!--END_SECTION:waka-->
