@@ -41,20 +41,20 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 59 mins             █████████████░░░░░░░░░░░░   50.07 % 
-TypeScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Go                       20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-TSConfig                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Markdown                 59 mins             ███████████████████░░░░░░   75.41 % 
+TSConfig                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DisasterNet-main         54 mins             ███████████░░░░░░░░░░░░░░   45.55 % 
-The Last Hand            25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-valorant-Remastered-main 21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Valorant Remastered      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+The Last Hand            25 mins             ████████░░░░░░░░░░░░░░░░░   32.28 % 
+valorant-Remastered-main 21 mins             ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+Valorant Remastered      17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+DisasterNet-main         14 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,5 +69,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 16/01/2026 12:47:01 UTC
+ Last Updated on 17/01/2026 01:32:24 UTC
 <!--END_SECTION:waka-->
