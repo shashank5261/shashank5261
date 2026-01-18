@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
@@ -41,20 +41,14 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 59 mins             ███████████████████░░░░░░   75.41 % 
-TSConfig                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JavaScript               56 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-The Last Hand            25 mins             ████████░░░░░░░░░░░░░░░░░   32.28 % 
-valorant-Remastered-main 21 mins             ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-Valorant Remastered      17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-DisasterNet-main         14 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Auth                     52 mins             ███████████████████████░░   92.68 % 
+http-server              4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,5 +63,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 17/01/2026 12:41:39 UTC
+ Last Updated on 18/01/2026 01:51:45 UTC
 <!--END_SECTION:waka-->
