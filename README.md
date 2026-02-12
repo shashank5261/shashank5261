@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -41,13 +41,14 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 min               ███████████████████░░░░░░   76.91 % 
+Other                    0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+shash_cf                 2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,5 +63,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 11/02/2026 13:12:25 UTC
+ Last Updated on 12/02/2026 02:09:31 UTC
 <!--END_SECTION:waka-->
