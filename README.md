@@ -41,16 +41,15 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 6 mins         ███████████████████████░░   93.92 % 
-Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JavaScript               1 hr 6 mins         ████████████████████████░   97.00 % 
+Java                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Auth_                    1 hr 6 mins         ███████████████████████░░   93.92 % 
-shash_cf                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Auth_                    1 hr 6 mins         ████████████████████████░   97.00 % 
+shash_cf                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -65,5 +64,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 18/02/2026 13:06:08 UTC
+ Last Updated on 19/02/2026 02:08:03 UTC
 <!--END_SECTION:waka-->
