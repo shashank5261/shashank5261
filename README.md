@@ -41,19 +41,18 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 2 mins        ███████████████████████░░   93.11 % 
-CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JavaScript               1 hr 46 mins        ████████████████████████░   97.27 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-course_site              2 hrs 37 mins       ███████████████░░░░░░░░░░   60.56 % 
-pg_react                 58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-pg_react2                30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-gutt                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+pg_react                 53 mins             ████████████░░░░░░░░░░░░░   48.85 % 
+pg_react2                30 mins             ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+course_site              25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -68,5 +67,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 07/03/2026 12:48:32 UTC
+ Last Updated on 08/03/2026 02:05:31 UTC
 <!--END_SECTION:waka-->
