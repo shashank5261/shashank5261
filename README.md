@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -41,19 +41,20 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               43 mins             ████████████████████████░   96.63 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Java                     45 mins             █████████████░░░░░░░░░░░░   50.31 % 
+JavaScript               43 mins             ████████████░░░░░░░░░░░░░   48.02 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pg_react2                17 mins             ██████████░░░░░░░░░░░░░░░   39.73 % 
-pg_react                 15 mins             █████████░░░░░░░░░░░░░░░░   35.53 % 
-course_site              7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-js-path                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-gutt                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+pg_react2                1 hr 3 mins         ██████████████████░░░░░░░   70.15 % 
+pg_react                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+course_site              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+js-path                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+gutt                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -68,5 +69,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 01/04/2026 13:24:30 UTC
+ Last Updated on 02/04/2026 02:13:54 UTC
 <!--END_SECTION:waka-->
