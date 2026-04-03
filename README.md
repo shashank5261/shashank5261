@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -41,20 +41,20 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     45 mins             █████████████░░░░░░░░░░░░   50.31 % 
-JavaScript               43 mins             ████████████░░░░░░░░░░░░░   48.02 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Java                     2 hrs 28 mins       ███████████████████░░░░░░   76.62 % 
+JavaScript               43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pg_react2                1 hr 3 mins         ██████████████████░░░░░░░   70.15 % 
-pg_react                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-course_site              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-js-path                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-gutt                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+pg_react2                2 hrs 46 mins       ██████████████████████░░░   86.03 % 
+pg_react                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+course_site              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+js-path                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+gutt                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,5 +69,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 02/04/2026 13:16:15 UTC
+ Last Updated on 03/04/2026 02:15:12 UTC
 <!--END_SECTION:waka-->
