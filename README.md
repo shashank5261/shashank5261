@@ -41,14 +41,14 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 25 mins       █████████████░░░░░░░░░░░░   51.25 % 
-Python                   3 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.75 % 
+Python                   3 hrs 15 mins       █████████████░░░░░░░░░░░░   51.06 % 
+Java                     3 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.94 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pg_react2                6 hrs 40 mins       █████████████████████████   100.00 % 
+pg_react2                6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,5 +63,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 11/04/2026 13:00:25 UTC
+ Last Updated on 12/04/2026 02:34:19 UTC
 <!--END_SECTION:waka-->
