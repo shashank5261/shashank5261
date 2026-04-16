@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -41,16 +41,15 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 15 mins       ██████████████████░░░░░░░   70.97 % 
-Java                     1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Python                   1 hr 39 mins        ████████████████████████░   94.44 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pg_react2                4 hrs 29 mins       ████████████████████████░   97.86 % 
-Auth                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+pg_react2                1 hr 39 mins        ████████████████████████░   94.44 % 
+Auth                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -65,5 +64,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/04/2026 13:27:12 UTC
+ Last Updated on 16/04/2026 02:37:59 UTC
 <!--END_SECTION:waka-->
