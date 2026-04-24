@@ -41,16 +41,14 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 18 mins        █████████████████░░░░░░░░   69.87 % 
-JavaScript               31 mins             ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+JavaScript               31 mins             ███████████████████████░░   91.10 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Auth                     1 hr 18 mins        █████████████████░░░░░░░░   69.87 % 
-realtime-ide-backend     34 mins             ████████░░░░░░░░░░░░░░░░░   30.13 % 
+realtime-ide-backend     34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -65,5 +63,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 23/04/2026 13:31:32 UTC
+ Last Updated on 24/04/2026 02:37:05 UTC
 <!--END_SECTION:waka-->
