@@ -1,7 +1,5 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2043%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -66,5 +64,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 13:28:06 UTC
+ Last Updated on 24/05/2026 03:34:13 UTC
 <!--END_SECTION:waka-->
