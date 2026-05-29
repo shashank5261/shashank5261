@@ -16,6 +16,40 @@ Coding Stats !!!
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                10 commits          ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌃 Evening                20 commits          ███████████████░░░░░░░░░░   58.82 % 
+🌙 Night                  4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Tuesday                  13 commits          ██████████░░░░░░░░░░░░░░░   38.24 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Friday                   14 commits          ██████████░░░░░░░░░░░░░░░   41.18 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -28,5 +62,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 03:33:48 UTC
+ Last Updated on 29/05/2026 15:29:57 UTC
 <!--END_SECTION:waka-->
