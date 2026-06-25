@@ -1,6 +1,6 @@
 Coding Stats !!!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -41,19 +41,19 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 9 mins        ████████████████████░░░░░   79.36 % 
-Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Python                   2 hrs 10 mins       ████████████████████░░░░░   79.30 % 
+Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-autosort                 2 hrs               ██████████████████░░░░░░░   73.78 % 
-Unknown Project          30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-python_v1                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-pg_react2                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+autosort                 2 hrs 1 min         ██████████████████░░░░░░░   73.75 % 
+Unknown Project          30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+python_v1                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+pg_react2                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -68,5 +68,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 24/06/2026 14:33:14 UTC
+ Last Updated on 25/06/2026 03:30:30 UTC
 <!--END_SECTION:waka-->
