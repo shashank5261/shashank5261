@@ -41,18 +41,17 @@ Sunday                   1 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        ████████████████████░░░░░   78.95 % 
-Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   43 mins             ███████████████████░░░░░░   76.35 % 
+Markdown                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-autosort                 2 hrs 1 min         ███████████████████░░░░░░   75.00 % 
-Unknown Project          30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-python_v1                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+autosort                 34 mins             ███████████████░░░░░░░░░░   59.69 % 
+Unknown Project          13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+python_v1                9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,5 +66,5 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/06/2026 13:49:42 UTC
+ Last Updated on 29/06/2026 03:48:48 UTC
 <!--END_SECTION:waka-->
